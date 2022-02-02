@@ -1,1 +1,2 @@
-This is the file created by developer 2
+This is the file created by developer 2.
+Changes added by developer 1.
